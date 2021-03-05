@@ -1,0 +1,32 @@
+html {
+  text-align: center;
+  font-family: 'Shippori Mincho B1', serif;
+}
+
+h1{
+  font-size: 3rem;  
+}
+
+h2{
+  padding: 2%;
+  padding-bottom: 0;
+  font-size: 2rem;
+}
+
+video{
+  margin: 2%;
+}
+
+.header {
+  margin: 2%;
+  background-color: #9999ff;
+  height: 300px;
+  color: white;
+}
+
+.footer{
+  margin: 2%;
+  background-color: #9999ff;
+  color: white;
+  padding: 2%;
+}
